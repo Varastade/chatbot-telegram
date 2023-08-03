@@ -1,0 +1,81 @@
+{
+    "trivia":[
+
+        {
+            "question": "¿Cuál es el nombre del personaje principal en el juego 'The Legend of Zelda'?",
+            "options": ["Link", "Mario", "Sonic", "Samus"],
+            "correct_id": 0,
+            "correcto": "¡Correcto! El personaje principal es Link.",
+            "incorrecto": "No, esa no es la respuesta correcta."
+          },
+          {
+            "question": "¿En qué año se lanzó el juego 'Super Mario Bros' de Nintendo?",
+            "options": ["1983", "1985", "1988", "1990"],
+            "correct_id": 1,
+            "correcto": "¡Correcto! 'Super Mario Bros' se lanzó en 1985.",
+            "incorrecto": "Incorrecto, intenta de nuevo."
+          },
+          {
+            "question": "¿Qué estudio desarrolló el juego 'The Witcher 3: Wild Hunt'?",
+            "options": ["CD Projekt Red", "Ubisoft", "Rockstar Games", "Electronic Arts"],
+            "correct_id": 0,
+            "correcto": "¡Así es! 'The Witcher 3: Wild Hunt' fue desarrollado por CD Projekt Red.",
+            "incorrecto": "Esa no es la respuesta correcta."
+          },
+          {
+            "question": "¿Cuál es el nombre del científico loco en 'Portal'?",
+            "options": ["GLaDOS", "Wheatley", "Cave Johnson", "Dr. Kleiner"],
+            "correct_id": 2,
+            "correcto": "¡Exacto! El científico loco es Cave Johnson.",
+            "incorrecto": "Incorrecto, inténtalo nuevamente."
+          },
+          {
+            "question": "¿Cuál es el título del primer juego de la saga 'Final Fantasy'?",
+            "options": ["Final Fantasy VI", "Final Fantasy I", "Final Fantasy X", "Final Fantasy XV"],
+            "correct_id": 1,
+            "correcto": "¡Correcto! El primer juego se llama 'Final Fantasy I'.",
+            "incorrecto": "No, esa no es la respuesta correcta."
+          },
+          {
+            "question": "¿Cuál es el nombre del planeta en el que ocurre la mayoría de 'Mass Effect'?",
+            "options": ["Tierra", "Terra", "Gaya", "Noveria"],
+            "correct_id": 3,
+            "correcto": "¡Sí! La mayoría del juego ocurre en el planeta Noveria.",
+            "incorrecto": "Incorrecto, intenta de nuevo."
+          },
+          {
+            "question": "¿Qué juego popular presenta a un fontanero llamado Mario?",
+            "options": ["Donkey Kong", "Zelda", "Super Mario Bros", "Mega Man"],
+            "correct_id": 2,
+            "correcto": "¡Eso es! El juego es 'Super Mario Bros'.",
+            "incorrecto": "No, esa no es la respuesta correcta."
+          },
+          {
+            "question": "¿Qué criaturas son los enemigos principales en 'Pokémon'?",
+            "options": ["Koopas", "Goombas", "Zombies", "Pokémon"],
+            "correct_id": 3,
+            "correcto": "¡Correcto! Los enemigos principales son los Pokémon.",
+            "incorrecto": "Incorrecto, inténtalo nuevamente."
+          },
+          {
+            "question": "¿Cuál es el nombre del personaje que busca a su hijo en 'Fallout 4'?",
+            "options": ["Jack", "Sam", "Nate", "Alex"],
+            "correct_id": 2,
+            "correcto": "¡Así es! El personaje es Nate.",
+            "incorrecto": "No, esa no es la respuesta correcta."
+          },
+          {
+            "question": "¿En qué género de videojuegos se destaca la saga 'Call of Duty'?",
+            "options": ["Plataformas", "Acción-aventura", "Shooter en primera persona", "RPG"],
+            "correct_id": 2,
+            "correcto": "¡Exacto! 'Call of Duty' es un shooter en primera persona.",
+            "incorrecto": "Esa no es la respuesta correcta."
+          }
+
+    ],
+
+    "storytime":[
+
+    ]
+    
+}
